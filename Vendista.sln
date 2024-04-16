@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendista.Terminal", "Vendista.Terminal\Vendista.Terminal.csproj", "{F04AC3A2-3D2A-44FF-81B5-911825BD5904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendista.BL", "Vendista.BL\Vendista.BL.csproj", "{DE8A2204-653F-475D-8235-5DA90413B08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendista.EF", "Vendista.EF\Vendista.EF.csproj", "{0DDEB5E9-3CA6-494A-8FF5-2897CB472D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04AC3A2-3D2A-44FF-81B5-911825BD5904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04AC3A2-3D2A-44FF-81B5-911825BD5904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04AC3A2-3D2A-44FF-81B5-911825BD5904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04AC3A2-3D2A-44FF-81B5-911825BD5904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8A2204-653F-475D-8235-5DA90413B08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8A2204-653F-475D-8235-5DA90413B08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8A2204-653F-475D-8235-5DA90413B08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8A2204-653F-475D-8235-5DA90413B08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDEB5E9-3CA6-494A-8FF5-2897CB472D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDEB5E9-3CA6-494A-8FF5-2897CB472D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDEB5E9-3CA6-494A-8FF5-2897CB472D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDEB5E9-3CA6-494A-8FF5-2897CB472D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
