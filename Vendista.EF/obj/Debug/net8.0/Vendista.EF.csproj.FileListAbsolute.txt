@@ -1,0 +1,12 @@
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\bin\Debug\net8.0\Vendista.EF.deps.json
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\bin\Debug\net8.0\Vendista.EF.dll
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\bin\Debug\net8.0\Vendista.EF.pdb
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\obj\Debug\net8.0\Vendista.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\obj\Debug\net8.0\Vendista.EF.AssemblyInfoInputs.cache
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\obj\Debug\net8.0\Vendista.EF.AssemblyInfo.cs
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\obj\Debug\net8.0\Vendista.EF.csproj.CoreCompileInputs.cache
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\obj\Debug\net8.0\Vendista.EF.sourcelink.json
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\obj\Debug\net8.0\Vendista.EF.dll
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\obj\Debug\net8.0\refint\Vendista.EF.dll
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\obj\Debug\net8.0\Vendista.EF.pdb
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.EF\obj\Debug\net8.0\ref\Vendista.EF.dll

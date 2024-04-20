@@ -10,3 +10,16 @@ C:\Users\Evgeny\RiderProjects\Vendista\Vendista.BL\obj\Debug\net8.0\Vendista.BL.
 C:\Users\Evgeny\RiderProjects\Vendista\Vendista.BL\obj\Debug\net8.0\refint\Vendista.BL.dll
 C:\Users\Evgeny\RiderProjects\Vendista\Vendista.BL\obj\Debug\net8.0\Vendista.BL.pdb
 C:\Users\Evgeny\RiderProjects\Vendista\Vendista.BL\obj\Debug\net8.0\ref\Vendista.BL.dll
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\bin\Debug\net8.0\Vendista.BL.deps.json
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\bin\Debug\net8.0\Vendista.BL.dll
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\bin\Debug\net8.0\Vendista.BL.pdb
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\Vendista.BL.csproj.AssemblyReference.cache
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\Vendista.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\Vendista.BL.AssemblyInfoInputs.cache
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\Vendista.BL.AssemblyInfo.cs
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\Vendista.BL.csproj.CoreCompileInputs.cache
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\Vendista.BL.sourcelink.json
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\Vendista.BL.dll
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\refint\Vendista.BL.dll
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\Vendista.BL.pdb
+C:\Users\Evgeny\RiderProjects\Vendista.Terminal\Vendista.BL\obj\Debug\net8.0\ref\Vendista.BL.dll

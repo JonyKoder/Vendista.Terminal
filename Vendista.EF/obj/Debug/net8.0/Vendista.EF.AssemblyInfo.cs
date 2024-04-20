@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vendista.EF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cefcf348c95a04e4f5b66bf2746d7c15c0fbac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vendista.EF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vendista.EF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

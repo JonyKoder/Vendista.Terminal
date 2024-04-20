@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CnIWuouAPopUU2ZkwqWWakKymgW39mGTma5Q4Ko4Tx2wjmAmB1eLVtWKhgrHAj+TpTF7lP/Gy5nkBO27+xjvVA==",
+  "dgSpecHash": "YyPFqN6QzC6SUOMxE6/oLettpJXY4K0lg7lWVWM48RDenhvhqV/yqUYkd9x4wdZMdkhdsi/u36joSYvIgikyYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Evgeny\\RiderProjects\\Vendista\\Vendista.Terminal\\Vendista.Terminal.csproj",
+  "projectFilePath": "C:\\Users\\Evgeny\\RiderProjects\\Vendista.Terminal\\Vendista.Terminal\\Vendista.Terminal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evgeny\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Evgeny\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Evgeny\\RiderProjects\\Vendista\\Vendista.EF\\Vendista.EF.csproj",
+      "projectUniqueName": "C:\\Users\\Evgeny\\RiderProjects\\Vendista.Terminal\\Vendista.EF\\Vendista.EF.csproj",
       "projectName": "Vendista.EF",
-      "projectPath": "C:\\Users\\Evgeny\\RiderProjects\\Vendista\\Vendista.EF\\Vendista.EF.csproj",
+      "projectPath": "C:\\Users\\Evgeny\\RiderProjects\\Vendista.Terminal\\Vendista.EF\\Vendista.EF.csproj",
       "packagesPath": "C:\\Users\\Evgeny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Evgeny\\RiderProjects\\Vendista\\Vendista.EF\\obj\\",
+      "outputPath": "C:\\Users\\Evgeny\\RiderProjects\\Vendista.Terminal\\Vendista.EF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
